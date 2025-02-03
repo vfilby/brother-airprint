@@ -1,13 +1,6 @@
+`Forked repo for personal reasons, suggest you look toward the original`
+
 # AirPrint bridge for your local printers
-
-[![Docker Image Version (latest semver)](https://img.shields.io/docker/v/rogerrum/cups-airprint)](https://hub.docker.com/r/rogerrum/cups-airprint/tags)
-[![license](https://img.shields.io/github/license/rogerrum/cups-airprint)](https://github.com/rogerrum/cups-airprint/blob/main/LICENSE)
-[![DockerHub pulls](https://img.shields.io/docker/pulls/rogerrum/cups-airprint.svg)](https://hub.docker.com/r/rogerrum/cups-airprint/)
-[![DockerHub stars](https://img.shields.io/docker/stars/rogerrum/cups-airprint.svg)](https://hub.docker.com/r/rogerrum/cups-airprint/)
-[![GitHub stars](https://img.shields.io/github/stars/rogerrum/cups-airprint.svg)](https://github.com/rogerrum/cups-airprint)
-[![Contributors](https://img.shields.io/github/contributors/rogerrum/cups-airprint.svg)](https://github.com/rogerrum/cups-airprint/graphs/contributors)
-[![Paypal](https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal)](https://www.paypal.com/donate/?business=CRVGAN4YGG9KL&no_recurring=0&item_name=rogerrum&currency_code=USD)
-
 
 
 ## Purpose
